@@ -1,1 +1,1 @@
-# django-anydoc-to-image
+# django-anydoc-to-image-or-pdf
